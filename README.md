@@ -35,7 +35,7 @@ Freelancer 👨🏽‍💻  Beside's programming, I enjoy eating food and travel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhaLK&layout=compact&hide_border=true&theme=light&)
 
-<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhalk&" alt="prabhalk" /></p>
+<!--p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhalk&" alt="prabhalk" /></p-->
 
 
 ### Languages and Tools : <br/>  
