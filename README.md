@@ -31,11 +31,11 @@ Freelancer 👨🏽‍💻  Beside's programming, I enjoy eating food and travel
 
 <br>
 
-![Prabhashana's github stats](https://github-readme-stats.vercel.app/api?username=PrabhaLK&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!--![Prabhashana's github stats](https://github-readme-stats.vercel.app/api?username=PrabhaLK&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhaLK&layout=compact&hide_border=true&theme=light&)
 
-<!--p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhalk&" alt="prabhalk" /></p-->
+p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhalk&" alt="prabhalk" /></p-->
 
 
 ### Languages and Tools : <br/>  
